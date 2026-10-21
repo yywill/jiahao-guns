@@ -1,6 +1,6 @@
-# 家豪的打枪
+# Jiahao's Guns
 
-Minecraft Java **1.21.1**，Fabric Loader **0.19.5** 的整合包。GitHub 仓库名是英文 [`jiahao-guns`](https://github.com/yywill/jiahao-guns)。Modrinth 项目是 [家豪的打枪](https://modrinth.com/modpack/jiahao-guns)。游戏里的名字也是「家豪的打枪」。
+Minecraft Java **1.21.1**，Fabric Loader **0.19.5** 的整合包。GitHub 仓库是 [`jiahao-guns`](https://github.com/yywill/jiahao-guns)。Modrinth 项目标题是 [Jiahao's Guns](https://modrinth.com/modpack/jiahao-guns)。原来的本地包名叫「家豪的打枪」。
 
 原来的本地包叫 Adrenaline，作者署名 `cjk123`。它不是单独一个枪械模组，而是一整包：
 
