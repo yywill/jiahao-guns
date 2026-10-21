@@ -1,0 +1,25 @@
+{
+  "serverUUID": "9308111e-7f44-4419-8491-2a0b32aeed59",
+  "compatibleMode": false,
+  "blackList": [
+    "minecraft:player_info_remove",
+    "minecraft:player_info_update",
+    "minecraft:command_suggestion",
+    "minecraft:commands",
+    "minecraft:command_suggestions"
+  ],
+  "playersDoNotUseContext": [
+    "00000000-0000-0000-0000-000000000000"
+  ],
+  "debugLog": false,
+  "compressionLevel": 6,
+  "contextLevel": 23,
+  "dccSizeLimit": 60,
+  "dccDistance": 5,
+  "dccTimeout": 60,
+  "chunkCacheEnabled": true,
+  "chunkCacheMaxSizeMB": 2048,
+  "lightStripEnabled": false,
+  "checkUpdate": true,
+  "maxPacketSize": "4MB"
+}

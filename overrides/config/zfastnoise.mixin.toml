@@ -1,0 +1,9 @@
+	[mixin.perf]
+		# defaultValue: true
+		#Replace populateNoise with optimized implementation
+		#
+		noise = true
+		# defaultValue: true
+		#Replace populateBiomes with optimized implementation
+		#
+		biome = true

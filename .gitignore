@@ -1,0 +1,11 @@
+# Third-party mod jars. The mrpack references them; do not commit the binaries.
+overrides/mods/
+
+# This machine's world, player data, and crash-assistant cache.
+overrides/saves/
+overrides/local/
+
+# Device-specific Sodium install fingerprint.
+overrides/config/sodium-fingerprint.json
+
+.DS_Store

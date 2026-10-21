@@ -1,0 +1,904 @@
+[
+  {
+    "path": "mods/[Fabric]ctov-3.6.3.jar",
+    "id": "ctov",
+    "slug": "ct-overhaul-village",
+    "project_id": "fgmhI8kH",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/fgmhI8kH/versions/dqaObRbU/%5BFabric%5Dctov-3.6.3.jar"
+    ]
+  },
+  {
+    "path": "mods/acceleratedrendering-1.0.11-1.21.1-alpha-fabric.1.jar",
+    "id": "acceleratedrendering",
+    "slug": "accrelatedrendering-refabricated",
+    "project_id": "hKeZP11p",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/hKeZP11p/versions/1OCl8RMb/acceleratedrendering-1.0.11-1.21.1-alpha-fabric.1.jar"
+    ]
+  },
+  {
+    "path": "mods/airraid-1.0.0.jar",
+    "id": "airraid",
+    "slug": "airraid",
+    "project_id": "Y2njpMUn",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Y2njpMUn/versions/fyi3Ekk5/airraid-1.0.0.jar"
+    ]
+  },
+  {
+    "path": "mods/architectury-13.0.11-fabric.jar",
+    "id": "architectury",
+    "slug": "architectury-api",
+    "project_id": "lhGA9TYQ",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Pzc2FP5K/architectury-13.0.11-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/async-locator-refined-fabric-1.21.1-1.6.0.jar",
+    "id": "asynclocator",
+    "slug": "async-locator-refined",
+    "project_id": "LUIHK4LD",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/LUIHK4LD/versions/uy0pYXcn/async-locator-refined-fabric-1.21.1-1.6.0.jar"
+    ]
+  },
+  {
+    "path": "mods/asynclogger-2.2.2+1.20.1-fabric.jar",
+    "id": "asynclogger",
+    "slug": "asynclogger",
+    "project_id": "zvNzKfGF",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/zvNzKfGF/versions/EdZUwK8s/asynclogger-2.2.2%2B1.20.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+    "id": "badoptimizations",
+    "slug": "badoptimizations",
+    "project_id": "g96Z4WVZ",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/bbe-fabric-1.3.4+mc1.21.1.jar",
+    "id": "betterblockentities",
+    "slug": "better-block-entities",
+    "project_id": "ONZm0H7Y",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/ONZm0H7Y/versions/pK7WAKWZ/bbe-fabric-1.3.4%2Bmc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.29.jar",
+    "id": "c2me",
+    "slug": "c2me-fabric",
+    "project_id": "VSNURh3q",
+    "client": "optional",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/VSNURh3q/versions/RMHYO1LJ/c2me-fabric-mc1.21.1-0.4.0-alpha.0.29.jar"
+    ]
+  },
+  {
+    "path": "mods/cardinal-components-api-6.1.3.jar",
+    "id": "cardinal-components",
+    "slug": "cardinal-components-api",
+    "project_id": "K01OU20C",
+    "client": "optional",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/K01OU20C/versions/nLsCe2VD/cardinal-components-api-6.1.3.jar"
+    ]
+  },
+  {
+    "path": "mods/cicada-lib-0.14.3+1.21-1.21.1.jar",
+    "id": "cicada",
+    "slug": "cicada",
+    "project_id": "IwCkru1D",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/IwCkru1D/versions/ulZDYpW0/cicada-lib-0.14.3%2B1.21-1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/cirrus-fabric-1.21.1-1.4.0.jar",
+    "id": "cirrus",
+    "slug": "cirrus",
+    "project_id": "SJDzFJH7",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/SJDzFJH7/versions/MSw8liwW/cirrus-fabric-1.21.1-1.4.0.jar"
+    ]
+  },
+  {
+    "path": "mods/cloth-config-15.0.140-fabric.jar",
+    "id": "cloth-config",
+    "slug": "cloth-config",
+    "project_id": "9s6osm5g",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/comforts-fabric-9.0.5+1.21.1.jar",
+    "id": "comforts",
+    "slug": "comforts",
+    "project_id": "SaCpeal4",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/SaCpeal4/versions/LUPOTXbk/comforts-fabric-9.0.5%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/ConfigManager-fabric-1.21.x-1.1.1.jar",
+    "id": "config_manager",
+    "slug": "configmanager",
+    "project_id": "jlNms3Jp",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/jlNms3Jp/versions/1gNhkJ1O/ConfigManager-fabric-1.21.x-1.1.1.jar"
+    ]
+  },
+  {
+    "path": "mods/CrashAssistant-fabric-1.20.2-1.21.4-1.11.12.jar",
+    "id": "crash_assistant",
+    "slug": "crash-assistant",
+    "project_id": "ix1qq8Ux",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/ix1qq8Ux/versions/AYajytbk/CrashAssistant-fabric-1.20.2-1.21.4-1.11.12.jar"
+    ]
+  },
+  {
+    "path": "mods/do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+    "id": "do_a_barrel_roll",
+    "slug": "do-a-barrel-roll",
+    "project_id": "6FtRfnLg",
+    "client": "required",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/6FtRfnLg/versions/vBXl66wc/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar"
+    ]
+  },
+  {
+    "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+    "id": "dynamic_fps",
+    "slug": "dynamic-fps",
+    "project_id": "LQ3K71Q1",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/DynamicBrightness-fabric-1.3.0.jar",
+    "id": "dynamicbrightness",
+    "slug": "dynamic-brightness",
+    "project_id": "qTnNnvU0",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/qTnNnvU0/versions/kssjN2x0/DynamicBrightness-fabric-1.3.0.jar"
+    ]
+  },
+  {
+    "path": "mods/entityculling-fabric-1.11.2-mc1.21.1.jar",
+    "id": "entityculling",
+    "slug": "entityculling",
+    "project_id": "NNAgCjsB",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/NNAgCjsB/versions/AaC52CuD/entityculling-fabric-1.11.2-mc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+    "id": "fabric-api",
+    "slug": "fabric-api",
+    "project_id": "P7dR8mSH",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+    "id": "fabric-language-kotlin",
+    "slug": "fabric-language-kotlin",
+    "project_id": "Ha28R6CL",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar"
+    ]
+  },
+  {
+    "path": "mods/ferritecore-7.0.3-fabric.jar",
+    "id": "ferritecore",
+    "slug": "ferrite-core",
+    "project_id": "uXXizFIs",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/flightassistant-fabric-3.0.1+mc1.21.1.jar",
+    "id": "flightassistant",
+    "slug": "flightassistant",
+    "project_id": "CWqLEOPt",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/CWqLEOPt/versions/el1y5aSO/flightassistant-fabric-3.0.1%2Bmc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+    "id": "forgeconfigapiport",
+    "slug": "forge-config-api-port",
+    "project_id": "ohNO6lps",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/fzzy_config-0.7.7+1.21.jar",
+    "id": "fzzy_config",
+    "slug": "fzzy-config",
+    "project_id": "hYykXjDp",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/hYykXjDp/versions/zFccjYag/fzzy_config-0.7.7%2B1.21.jar"
+    ]
+  },
+  {
+    "path": "mods/Galosphere-1.21.1-1.5.4-Fabric.jar",
+    "id": "galosphere",
+    "slug": "galosphere",
+    "project_id": "Kn7xyQ1v",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/jviVa3qz/Galosphere-1.21.1-1.5.4-Fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
+    "id": "geckolib",
+    "slug": "geckolib",
+    "project_id": "8BmcQJ2H",
+    "client": "required",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tmxM7U4W/geckolib-fabric-1.21.1-4.9.3.jar"
+    ]
+  },
+  {
+    "path": "mods/GPUBooster-1.3.1-1.21-1.21.1.jar",
+    "id": "gpu_booster",
+    "slug": "gputape",
+    "project_id": "5CTSrY8X",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/5CTSrY8X/versions/zI3PZ2mz/GPUBooster-1.3.1-1.21-1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/handycam-2.0.0-alpha+1.21.1-fabric.jar",
+    "id": "handycam",
+    "slug": "handycam",
+    "project_id": "kONpDzH3",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/kONpDzH3/versions/B528OJx5/handycam-2.0.0-alpha%2B1.21.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
+    "id": "immediatelyfast",
+    "slug": "immediatelyfast",
+    "project_id": "5ZwdcRci",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/5ZwdcRci/versions/7XKnsIC8/ImmediatelyFast-Fabric-1.6.14%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/immersive_aircraft-1.4.6+1.21.1-fabric.jar",
+    "id": "immersive_aircraft",
+    "slug": "immersive-aircraft",
+    "project_id": "x3HZvrj6",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/x3HZvrj6/versions/tZBYhPhB/immersive_aircraft-1.4.6%2B1.21.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/ImprovedPillagerOutpost-v5.jar",
+    "id": "ipo",
+    "slug": "improved-pillager-outpost",
+    "project_id": "WQxwMPH5",
+    "client": "optional",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/WQxwMPH5/versions/UqNxyorq/ImprovedPillagerOutpost-v5.jar"
+    ]
+  },
+  {
+    "path": "mods/Ixeris-4.6.8+1.21.1-fabric.jar",
+    "id": "ixeris",
+    "slug": "ixeris",
+    "project_id": "p8RJPJIC",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/p8RJPJIC/versions/MySe2ICq/Ixeris-4.6.8%2B1.21.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/Kerria-1.3.2+1.21.1-fabric.jar",
+    "id": "kerria",
+    "slug": "kerria-opt",
+    "project_id": "f0ruQTF7",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/f0ruQTF7/versions/JGDoVXCY/Kerria-1.3.2%2B1.21.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/krypton-0.2.8.jar",
+    "id": "krypton",
+    "slug": "krypton",
+    "project_id": "fQEb0iXm",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+    ]
+  },
+  {
+    "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+    "id": "lambdynlights",
+    "slug": "lambdynamiclights",
+    "project_id": "yBW8D80W",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/letsdo-alpinewhispers-fabric-1.0.3.jar",
+    "id": "alpinewhispers",
+    "slug": "lets-do-alpine-whispers",
+    "project_id": "SSPTBIrB",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/SSPTBIrB/versions/uhgLGuPe/letsdo-alpinewhispers-fabric-1.0.3.jar"
+    ]
+  },
+  {
+    "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+    "id": "lithium",
+    "slug": "lithium",
+    "project_id": "gvQqBUqZ",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/lithostitched-1.8.0-fabric-21.1.jar",
+    "id": "lithostitched",
+    "slug": "lithostitched",
+    "project_id": "XaDC71GB",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/XaDC71GB/versions/eN30OQaU/lithostitched-1.8.0-fabric-21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/midnightlib-fabric-1.9.3+1.21.1.jar",
+    "id": "midnightlib",
+    "slug": "midnightlib",
+    "project_id": "codAaoxh",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/codAaoxh/versions/as2ZKoB1/midnightlib-fabric-1.9.3%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/millager-fabric-1.21.1-0.7.7.jar",
+    "id": "millager",
+    "slug": "millager",
+    "project_id": "DFGcsxUu",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/DFGcsxUu/versions/n0GIQp9y/millager-fabric-1.21.1-0.7.7.jar"
+    ]
+  },
+  {
+    "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+    "id": "modernfix",
+    "slug": "modernfix",
+    "project_id": "nmDcB62a",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/modmenu-11.0.4.jar",
+    "id": "modmenu",
+    "slug": "modmenu",
+    "project_id": "mOgUt4GM",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar"
+    ]
+  },
+  {
+    "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+    "id": "mousetweaks",
+    "slug": "mouse-tweaks",
+    "project_id": "aC3cM3Vq",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar"
+    ]
+  },
+  {
+    "path": "mods/NotEnoughBandwidth-1.0.3+1.21.1.jar",
+    "id": "neb-fabric",
+    "slug": "notenoughbandwidthfabric",
+    "project_id": "vD8fMHSr",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/vD8fMHSr/versions/mFrEMKft/NotEnoughBandwidth-1.0.3%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/NumFlux-1.0.4.1-1.21.1-fabric.jar",
+    "id": "num_flux",
+    "slug": "numflux",
+    "project_id": "1Bm2WDXm",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/1Bm2WDXm/versions/yDnDUAmQ/NumFlux-1.0.4.1-1.21.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/open-parties-and-claims-fabric-1.21.1-0.31.6.jar",
+    "id": "openpartiesandclaims",
+    "slug": "open-parties-and-claims",
+    "project_id": "gF3BGWvG",
+    "client": "optional",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/gF3BGWvG/versions/IGnNGC9H/open-parties-and-claims-fabric-1.21.1-0.31.6.jar"
+    ]
+  },
+  {
+    "path": "mods/packforge-fabric-1.4-beta.1-mc1.21.1.jar",
+    "id": "packforge",
+    "slug": "packforge",
+    "project_id": "NimDX7iQ",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/NimDX7iQ/versions/Rv1RXOAU/packforge-fabric-1.4-beta.1-mc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/paradise-lost-2.4.6-beta+1.21.1.jar",
+    "id": "paradise_lost",
+    "slug": "paradise-lost",
+    "project_id": "IKpsG0nF",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/IKpsG0nF/versions/kpnTCH47/paradise-lost-2.4.6-beta%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/particle_core-0.3.3+1.21.jar",
+    "id": "particle_core",
+    "slug": "particle-core",
+    "project_id": "RSeLon5O",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/RSeLon5O/versions/mau4pnKr/particle_core-0.3.3%2B1.21.jar"
+    ]
+  },
+  {
+    "path": "mods/placeholder-api-2.4.2+1.21.jar",
+    "id": "placeholder-api",
+    "slug": "placeholder-api",
+    "project_id": "eXts2L7r",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar"
+    ]
+  },
+  {
+    "path": "mods/pointblank-fabric-1.21-2.2.0.jar",
+    "id": "pointblank",
+    "slug": "vics-point-blank",
+    "project_id": "og4KPYmA",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/og4KPYmA/versions/7FaixPLu/pointblank-fabric-1.21-2.2.0.jar"
+    ]
+  },
+  {
+    "path": "mods/polymorph-fabric-1.2.0+1.21.1.jar",
+    "id": "polymorph",
+    "slug": "polymorph",
+    "project_id": "tagwiZkJ",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/tagwiZkJ/versions/ZPMmgVne/polymorph-fabric-1.2.0%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/PresenceFootsteps-1.10.2+1.21.jar",
+    "id": "presencefootsteps",
+    "slug": "presence-footsteps",
+    "project_id": "rcTfTZr3",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/rcTfTZr3/versions/O1zeCf5e/PresenceFootsteps-1.10.2%2B1.21.jar"
+    ]
+  },
+  {
+    "path": "mods/profundis-1.7.1.jar",
+    "id": "profundis",
+    "slug": "profundis",
+    "project_id": "aucz7XCt",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/aucz7XCt/versions/qSZA4uLW/profundis-1.7.1.jar"
+    ]
+  },
+  {
+    "path": "mods/regions-unexplored-0.6.2-fabric-21.1.jar",
+    "id": "regions_unexplored",
+    "slug": "regions-unexplored",
+    "project_id": "Tkikq67H",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Tkikq67H/versions/SffwLsGY/regions-unexplored-0.6.2-fabric-21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/repurposed_structures-7.5.22+1.21.1-fabric.jar",
+    "id": "repurposed_structures",
+    "slug": "repurposed-structures-fabric",
+    "project_id": "muf0XoRe",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/muf0XoRe/versions/JRMMCb1O/repurposed_structures-7.5.22%2B1.21.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/resourcefulconfig-fabric-1.21-3.0.11.jar",
+    "id": "resourcefulconfig",
+    "slug": "resourceful-config",
+    "project_id": "M1953qlQ",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/M1953qlQ/versions/dQh99ERC/resourcefulconfig-fabric-1.21-3.0.11.jar"
+    ]
+  },
+  {
+    "path": "mods/reveal-hidden-raiders-1.0.0-Release.jar",
+    "id": "reveal_hidden_raiders",
+    "slug": "reveal-hidden-raiders",
+    "project_id": "EcD58osQ",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/EcD58osQ/versions/XhegzPFq/reveal-hidden-raiders-1.0.0-Release.jar"
+    ]
+  },
+  {
+    "path": "mods/RoughlyEnoughItems-16.0.799-fabric.jar",
+    "id": "roughlyenoughitems",
+    "slug": "rei",
+    "project_id": "nfn13YXA",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/nfn13YXA/versions/aWzTESNC/RoughlyEnoughItems-16.0.799-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/ScalableLux-fabric-0.3.0-alpha.0.7-all.jar",
+    "id": "scalablelux",
+    "slug": "scalablelux",
+    "project_id": "Ps1zyz6x",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Ps1zyz6x/versions/AodeMVa6/ScalableLux-fabric-0.3.0-alpha.0.7-all.jar"
+    ]
+  },
+  {
+    "path": "mods/servercore-fabric-1.5.19+1.21.1.jar",
+    "id": "servercore",
+    "slug": "servercore",
+    "project_id": "4WWQxlQP",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/4WWQxlQP/versions/GQ2a51Rl/servercore-fabric-1.5.19%2B1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+    "id": "sodium",
+    "slug": "sodium",
+    "project_id": "AANobbMI",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/spark-1.10.109-fabric.jar",
+    "id": "spark",
+    "slug": "spark",
+    "project_id": "l6YH9Als",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/structure_layout_optimizer-fabric-1.0.12.jar",
+    "id": "structure_layout_optimizer",
+    "slug": "structure-layout-optimizer",
+    "project_id": "ayPU0OHc",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/ayPU0OHc/versions/522Wudew/structure_layout_optimizer-fabric-1.0.12.jar"
+    ]
+  },
+  {
+    "path": "mods/TeamWork-0.1.1.jar",
+    "id": "teamwork",
+    "slug": "teamwork",
+    "project_id": "fSRUN8db",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/fSRUN8db/versions/ZN28JgVe/TeamWork-0.1.1.jar"
+    ]
+  },
+  {
+    "path": "mods/threadtweak-fabric-0.1.5+mc1.21.1.jar",
+    "id": "threadtweak",
+    "slug": "threadtweak",
+    "project_id": "vSEH1ERy",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/vSEH1ERy/versions/F4sjmsi3/threadtweak-fabric-0.1.5%2Bmc1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/ToadLib-1.4.3-1.21-1.21.1.jar",
+    "id": "toadlib",
+    "slug": "toadlib",
+    "project_id": "CYQ7VYrM",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/CYQ7VYrM/versions/HL3r2VlG/ToadLib-1.4.3-1.21-1.21.1.jar"
+    ]
+  },
+  {
+    "path": "mods/travelersbackpack-fabric-1.21.1-10.1.39.jar",
+    "id": "travelersbackpack",
+    "slug": "travelersbackpack",
+    "project_id": "rlloIFEV",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/rlloIFEV/versions/npKsvQvE/travelersbackpack-fabric-1.21.1-10.1.39.jar"
+    ]
+  },
+  {
+    "path": "mods/trinkets-3.10.0.jar",
+    "id": "trinkets",
+    "slug": "trinkets",
+    "project_id": "5aaWibi9",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
+    ]
+  },
+  {
+    "path": "mods/WeatherRefind-fabric-1.21.1-v1.1.jar",
+    "id": "weatherrefind",
+    "slug": "weatherrefind",
+    "project_id": "Qyzsewil",
+    "client": "required",
+    "server": "unsupported",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Qyzsewil/versions/Wn6rFwZp/WeatherRefind-fabric-1.21.1-v1.1.jar"
+    ]
+  },
+  {
+    "path": "mods/xaeroworldmap-fabric-1.21.1-1.46.0.jar",
+    "id": "xaeroworldmap",
+    "slug": "xaeros-world-map",
+    "project_id": "NcUtCpym",
+    "client": "required",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/NcUtCpym/versions/txl9KURC/xaeroworldmap-fabric-1.21.1-1.46.0.jar"
+    ]
+  },
+  {
+    "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+    "id": "yet_another_config_lib_v3",
+    "slug": "yacl",
+    "project_id": "1eAoo2KR",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
+    ]
+  },
+  {
+    "path": "mods/YungsApi-1.21.1-Fabric-5.1.9.jar",
+    "id": "yungsapi",
+    "slug": "yungs-api",
+    "project_id": "Ua7DFN59",
+    "client": "required",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Ua7DFN59/versions/9rzwORd6/YungsApi-1.21.1-Fabric-5.1.9.jar"
+    ]
+  },
+  {
+    "path": "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+    "id": "bettermineshafts",
+    "slug": "yungs-better-mineshafts",
+    "project_id": "HjmxVlSr",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/HjmxVlSr/versions/4ybDuGhA/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar"
+    ]
+  },
+  {
+    "path": "mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar",
+    "id": "betterfortresses",
+    "slug": "yungs-better-nether-fortresses",
+    "project_id": "Z2mXHnxP",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Z2mXHnxP/versions/gxBGYcIL/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar"
+    ]
+  },
+  {
+    "path": "mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+    "id": "betteroceanmonuments",
+    "slug": "yungs-better-ocean-monuments",
+    "project_id": "3dT9sgt4",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/3dT9sgt4/versions/TGK6gpeO/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
+    ]
+  },
+  {
+    "path": "mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+    "id": "betterstrongholds",
+    "slug": "yungs-better-strongholds",
+    "project_id": "kidLKymU",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/kidLKymU/versions/uYZShp1p/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
+    ]
+  },
+  {
+    "path": "mods/YungsBridges-1.21.1-Fabric-5.1.1.jar",
+    "id": "yungsbridges",
+    "slug": "yungs-bridges",
+    "project_id": "Ht4BfYp6",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/Ht4BfYp6/versions/8h9N9fvs/YungsBridges-1.21.1-Fabric-5.1.1.jar"
+    ]
+  },
+  {
+    "path": "mods/zconfig-1.0.0+1.21.x.jar",
+    "id": "zconfig",
+    "slug": "zconfig",
+    "project_id": "4qmvXRB9",
+    "client": "optional",
+    "server": "optional",
+    "downloads": [
+      "https://cdn.modrinth.com/data/4qmvXRB9/versions/yD19P1nG/zconfig-1.0.0%2B1.21.x.jar"
+    ]
+  },
+  {
+    "path": "mods/zfastnoise-1.0.14+1.21.jar",
+    "id": "zfastnoise",
+    "slug": "zfastnoise",
+    "project_id": "OnlVIpq5",
+    "client": "unsupported",
+    "server": "required",
+    "downloads": [
+      "https://cdn.modrinth.com/data/OnlVIpq5/versions/73DMCY3S/zfastnoise-1.0.14%2B1.21.jar"
+    ]
+  }
+]

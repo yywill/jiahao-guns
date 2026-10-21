@@ -1,0 +1,7 @@
+{
+  "globe_size": 10000,
+  "border_amplitude": 200,
+  "border_frequency": 0.002,
+  "spawn_latitude": 0.0,
+  "blend_fraction": 0.15
+}
