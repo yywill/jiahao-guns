@@ -1,6 +1,6 @@
 # 家豪的打枪
 
-Minecraft Java **1.21.1**，Fabric Loader **0.19.5** 的整合包。GitHub 仓库名是英文 [`jiahao-guns`](https://github.com/yywill/jiahao-guns)。游戏里的名字是「家豪的打枪」。
+Minecraft Java **1.21.1**，Fabric Loader **0.19.5** 的整合包。GitHub 仓库名是英文 [`jiahao-guns`](https://github.com/yywill/jiahao-guns)。Modrinth 项目是 [家豪的打枪](https://modrinth.com/modpack/jiahao-guns)。游戏里的名字也是「家豪的打枪」。
 
 原来的本地包叫 Adrenaline，作者署名 `cjk123`。它不是单独一个枪械模组，而是一整包：
 
@@ -42,9 +42,9 @@ Modrinth 的整合包格式也不把 JAR 塞进压缩包。`modrinth.index.json`
 
 ## 安装
 
-1. 用 Modrinth App 或 Prism Launcher 导入 [`dist/家豪的打枪-1.0.0.mrpack`](dist/家豪的打枪-1.0.0.mrpack)。
-2. 等它下完 82 个模组。
-3. 按下一节补上剩下的 6 个文件。
+项目正在 Modrinth 审核。审核通过后，用 Modrinth App 或 Prism Launcher 打开 [modrinth.com/modpack/jiahao-guns](https://modrinth.com/modpack/jiahao-guns) 安装。
+
+审核完成前，可以导入仓库里的 [`dist/家豪的打枪-1.0.0.mrpack`](dist/家豪的打枪-1.0.0.mrpack)。启动器会下载 82 个模组。再按下一节补上剩下的 6 个文件。
 
 ## 要自己放进 `mods/` 的 6 个文件
 
